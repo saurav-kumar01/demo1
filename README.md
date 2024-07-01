@@ -1,1 +1,1 @@
-here we some credential for builing project and wand to make good repo
+here we some credential for builing project and wand to make good project
